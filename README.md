@@ -1,4 +1,4 @@
-# E4501-Tool For Analytics-Project
+# E4501-Tools For Analytics-Project
 
 ### Contributors:
 Group 63  
