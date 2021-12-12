@@ -2,8 +2,8 @@
 
 ### Contributors:
 Group 63  
-Seth Matthew Louis Younger, uni:sy2367  
-Xianyin Yin, uni:xy2470  
+Seth Matthew Louis Younger, uni:sy2367, Parking.ipynb
+Xianyin Yin, uni:xy2470, Top10.ipynb  
 
 ### Project Goals:
 1. Find the top 10 causes of calls to 311 in zip code 10027 area, and total incidents of each of these 10 types there have been in the year 2020.  
