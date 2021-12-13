@@ -24,4 +24,4 @@ UNSANITARY CONDITION            628
 PLUMBING                        465  
 Noise                           443  
 
-2. Whether illegal parking incidents are a larger fraction of total 311 incidents in zip code 10027 area than they are in general:
+2. Whether illegal parking incidents are a larger fraction of total 311 incidents in zip code 10027 area than they are in general: False
